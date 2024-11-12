@@ -1,1 +1,1 @@
-abderahmen dossier avec git clone 
+abderahmen dossier avec git clone https://github.com/abdrahamanecisse/ws-git.git
